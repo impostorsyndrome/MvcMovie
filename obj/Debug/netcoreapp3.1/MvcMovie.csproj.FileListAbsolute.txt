@@ -9,7 +9,6 @@ C:\Users\matia\source\repos\MvcMovie\bin\Debug\netcoreapp3.1\MvcMovie.dll
 C:\Users\matia\source\repos\MvcMovie\bin\Debug\netcoreapp3.1\MvcMovie.pdb
 C:\Users\matia\source\repos\MvcMovie\bin\Debug\netcoreapp3.1\MvcMovie.Views.dll
 C:\Users\matia\source\repos\MvcMovie\bin\Debug\netcoreapp3.1\MvcMovie.Views.pdb
-C:\Users\matia\source\repos\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csprojAssemblyReference.cache
 C:\Users\matia\source\repos\MvcMovie\obj\Debug\netcoreapp3.1\staticwebassets\MvcMovie.StaticWebAssets.Manifest.cache
 C:\Users\matia\source\repos\MvcMovie\obj\Debug\netcoreapp3.1\staticwebassets\MvcMovie.StaticWebAssets.xml
 C:\Users\matia\source\repos\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
