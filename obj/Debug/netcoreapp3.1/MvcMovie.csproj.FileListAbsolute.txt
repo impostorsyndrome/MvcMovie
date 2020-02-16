@@ -133,6 +133,7 @@ C:\Users\matia\source\repos\MvcMovie\bin\Debug\netcoreapp3.1\runtimes\win-x86\na
 C:\Users\matia\source\repos\MvcMovie\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\matia\source\repos\MvcMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\matia\source\repos\MvcMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\matia\source\repos\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csprojAssemblyReference.cache
 C:\Users\matia\source\repos\MvcMovie\obj\Debug\netcoreapp3.1\staticwebassets\MvcMovie.StaticWebAssets.Manifest.cache
 C:\Users\matia\source\repos\MvcMovie\obj\Debug\netcoreapp3.1\staticwebassets\MvcMovie.StaticWebAssets.xml
 C:\Users\matia\source\repos\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
